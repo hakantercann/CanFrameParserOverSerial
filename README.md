@@ -1,5 +1,4 @@
-# Project Name
-## CAN Frame Parser 
+# CAN Frame Parser 
 
 ## 🧠 Short Description
 This application connects to a serial port, parses incoming CAN frames (11-bit and 29-bit), and displays them in a GUI. It also integrates with an ABB robot, sending object position data after processing, enabling pick-and-place operations.
